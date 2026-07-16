@@ -1,3 +1,3 @@
 # cdc_project
-Learning about Github in CDC training sessions.
-i want to learn more about git
+we are Learning about Github in CDC training sessions today
+but i want to explore more about frontend
